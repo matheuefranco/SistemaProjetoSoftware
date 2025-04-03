@@ -1,6 +1,6 @@
 # 📌 Cadastro de Vagas de Estágio
 
-## 📋 Visão Geral
+## 📋 Visão Geral - Nova
 O **Cadastro de Vagas de Estágio** é um sistema que permite empresas cadastrarem vagas de estágio e estudantes buscarem oportunidades alinhadas ao seu perfil. O sistema oferece um fluxo intuitivo para cadastro, busca e gerenciamento de vagas.
 
 ## 🚀 Funcionalidades Principais
